@@ -1,0 +1,23 @@
+_id: req_fda4e230d4f64707a6e8f465542b2e3f
+type: Request
+parentId: wrk_1a83b90cd5d44095bb80750518619ebc
+modified: 1712008103257
+created: 1712008083818
+url: https://v4.pixelboop.net/api/controls/previous
+name: Controls - Previous
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712008083818
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

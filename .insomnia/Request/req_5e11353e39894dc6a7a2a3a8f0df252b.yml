@@ -1,0 +1,23 @@
+_id: req_5e11353e39894dc6a7a2a3a8f0df252b
+type: Request
+parentId: wrk_1a83b90cd5d44095bb80750518619ebc
+modified: 1712008079760
+created: 1712008053249
+url: https://v4.pixelboop.net/api/controls/skip
+name: Controls - Skip
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712008053249
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

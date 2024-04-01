@@ -1,0 +1,23 @@
+_id: req_22aa6e100f1a47a38e53e3b558aae325
+type: Request
+parentId: wrk_1a83b90cd5d44095bb80750518619ebc
+modified: 1712008167112
+created: 1712008145412
+url: https://v4.pixelboop.net/api/current
+name: Current
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712008145412
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
